@@ -1,0 +1,38 @@
+# Environment Variables
+.env
+.env.*
+!.env.example
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.coverage
+htmlcov/
+*.venv
+venv/
+ENV/
+
+# Node.js / Next.js
+frontend/node_modules/
+frontend/.next/
+frontend/out/
+node_modules/
+.next/
+dist/
+
+# SQLite & Databases
+*.db
+*.sqlite
+*.sqlite3
+
+# Uploads & Temp Storage
+uploads/
+tmp/
+temp/
+scratch/
+
+# System Files
+.DS_Store
+Thumbs.db

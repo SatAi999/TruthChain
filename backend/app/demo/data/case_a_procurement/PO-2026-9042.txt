@@ -1,0 +1,13 @@
+PURCHASE ORDER: PO-2026-9042
+Date: September 10, 2026
+Buyer: Hospital X Medical Center (Receiving Site X)
+Vendor: Company A Technologies Ltd (Supplier A)
+Contract Ref: Master Supply Agreement MSA-2025-09
+
+Line Items:
+Item 1: Medical Devices (Catalog #MD-10K) - Quantity: 10,000 units
+Unit Price: $150.00 | Total: $1,500,000.00
+
+Special Delivery Term:
+CRITICAL DEADLINE: All 10,000 medical devices must be delivered in full to Hospital X receiving dock prior to 5:00 PM on September 15, 2026.
+Late delivery subject to 5% penalty per calendar day delay as per Master Agreement Clause 14.2.

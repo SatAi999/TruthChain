@@ -1,0 +1,12 @@
+CARRIER BILL OF LADING: BOL-5541
+Carrier: Apex Logistics Corp
+Dispatch Date: September 12, 2026
+Shipper: Company A Manufacturing Facility
+Consignee: Hospital X Medical Center, Receiving Dock B
+
+Manifest Details:
+Shipment #1 of PO-2026-9042
+Container ID: APX-9921
+Quantity Dispatched: 8,500 units of Medical Device #MD-10K
+Pallet Count: 170 pallets
+Status: In Transit - Scheduled Receipt Sept 14, 2026.

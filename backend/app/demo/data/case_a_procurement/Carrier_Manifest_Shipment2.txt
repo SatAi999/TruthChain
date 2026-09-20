@@ -1,0 +1,10 @@
+CARRIER MANIFEST: SWIFT-7714
+Carrier: Swift Express Freight
+Dispatch Date: September 16, 2026
+Shipper: Company A Technologies Ltd
+Consignee: Hospital X Medical Center
+
+Shipment #2 of PO-2026-9042 (Final Balance)
+Quantity Dispatched: 1,500 units of Medical Device #MD-10K
+Tracking Number: SWF-1,500-FINAL
+Destination Arrival: September 17, 2026.

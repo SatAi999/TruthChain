@@ -1,0 +1,11 @@
+HOSPITAL X RECEIVING DOCK LOG
+Receipt ID: RCV-2026-0914-A
+Date Received: September 14, 2026 (Time: 14:15 EST)
+Carrier: Apex Logistics Corp (BOL-5541)
+Purchase Order: PO-2026-9042
+
+Inspection Record:
+Items Delivered: Medical Devices #MD-10K
+Quantity Counted at Dock: 8,500 units
+Intake Note: First partial delivery of 8,500 units accepted into holding area. 1,500 units remaining outstanding on PO.
+Received By: J. Miller, Dock Logistics Officer.

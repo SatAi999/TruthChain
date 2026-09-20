@@ -1,0 +1,1 @@
+CONFIDENTIAL QA MEMO: Product Beta failed re-testing on August 5 due to voltage instability.

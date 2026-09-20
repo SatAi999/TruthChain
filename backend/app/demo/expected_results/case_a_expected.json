@@ -1,0 +1,26 @@
+{
+  "case_id": "case_a_procurement",
+  "claim": "Company A delivered 10,000 medical devices to Hospital X before September 15.",
+  "expected_verdict": "PARTIALLY_SUPPORTED",
+  "expected_atomic_claims": [
+    "Company A is the contracted supplier",
+    "Total ordered quantity is 10,000 units",
+    "Delivery occurred at Hospital X",
+    "Total delivered quantity is 10,000 units",
+    "Full delivery requirement before September 15"
+  ],
+  "expected_delivered_total": 10000,
+  "expected_shipment_count": 2,
+  "expected_contradictions": [
+    {
+      "type": "QUANTITY",
+      "status": "RESOLVED"
+    },
+    {
+      "type": "DATE",
+      "status": "UNRESOLVED"
+    }
+  ],
+  "expected_deadline_violated": true,
+  "expected_days_late": 2
+}

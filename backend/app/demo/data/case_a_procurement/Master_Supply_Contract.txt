@@ -1,0 +1,8 @@
+MASTER SUPPLY AGREEMENT (MSA-2025-09)
+Between: Company A Technologies Ltd ("Supplier") and Hospital X Health System ("Buyer")
+
+Section 4.1 - Delivery & Completion:
+A delivery obligation is considered fulfilled only upon physical receipt and intake verification of the full quantity specified in the active Purchase Order at Buyer's designated facility.
+
+Section 14.2 - Penalties for Late Delivery:
+If Supplier fails to deliver 100% of the ordered quantity on or before the Purchase Order Deadline Date (September 15, 2026 for PO-2026-9042), Buyer reserves the right to withhold 5% of order invoice value per day until final balance is received.

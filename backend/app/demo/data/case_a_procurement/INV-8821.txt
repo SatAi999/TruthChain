@@ -1,0 +1,10 @@
+COMMERCIAL INVOICE: INV-8821
+Invoice Date: September 11, 2026
+Bill To: Hospital X Medical Center
+From: Company A Technologies Ltd
+
+Purchase Order Ref: PO-2026-9042
+Description: 10,000 Medical Devices (Catalog #MD-10K)
+Billed Quantity: 10,000 units
+Total Amount Due: $1,500,000.00
+Payment Terms: Net 30 days upon full delivery verification.
